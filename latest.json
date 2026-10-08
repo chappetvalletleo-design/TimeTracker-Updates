@@ -1,7 +1,7 @@
 {
-  "version": "0.4.0",
-  "releaseUrl": null,
-  "downloadUrl": null,
-  "available": false,
-  "notes": "Version stable. Aucun CCX public disponible."
+    "version":  "0.4.1",
+    "releaseUrl":  null,
+    "downloadUrl":  null,
+    "available":  false,
+    "notes":  "Version stable. Aucun CCX public disponible."
 }
